@@ -1,0 +1,1 @@
+devenv .\src\Riskcontrol.sln /Build Release
